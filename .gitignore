@@ -18,3 +18,9 @@ MiroFish/
 # Credentials
 *credentials*
 *secret*
+
+# Pip install artifacts
+=*
+node_modules/
+*.egg
+*.egg-info/
